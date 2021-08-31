@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Martin-Labenne
+- 👋 Hi, I’m @Martin-Labenne French Engineer
 - 👀 I’m interested in *Data Science and Analytics*
 - 🌱 I’m continuously learning about these topics
+- 📚 I've studied at ISEP - Paris School of Digital Engineering
+- 💼 I've worked at Jolimoi - Paris, France and METRO OPTIC - Vanves, France
 - 💻 [My LinkedIn](https://www.linkedin.com/in/martin-labenne/)
 <!--
 - 💞️ I’m looking to collaborate on ...
